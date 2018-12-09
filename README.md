@@ -1,7 +1,7 @@
 ## OpenWeatherMap Apps
 
 * **OpenWeather App SS**
-<img src="https://github.com/abudawud/OpenWeather/blob/master/doc/Screenshot_1544324083.png" alt="alt text" width="100px">
+<img src="https://github.com/abudawud/OpenWeather/blob/master/doc/Screenshot_1544324083.png" alt="alt text" width="50%">
 
 ## AUTHOR
 written by Ahmad Waris Al H.
