@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OpenWeather</string>
+    <string name="masukkan_nama_kota">Masukkan Nama Kota</string>
+    <string name="cari">Cari...</string>
+    <string name="nama_kota">Nama Kota</string>
+    <string name="temperatur">Temperatur</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
